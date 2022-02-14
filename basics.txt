@@ -5,3 +5,4 @@ keyboard
 mouse 
 monitor
 speaker
+web camera
