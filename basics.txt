@@ -1,0 +1,7 @@
+computer
+
+cpu
+keyboard
+mouse 
+monitor
+speaker
